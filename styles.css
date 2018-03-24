@@ -1,0 +1,12 @@
+img{
+    width: 600px;
+    height: 200px;
+}
+
+
+body{
+    text-align: center;
+    font-family: monospace;
+    color:white;
+    background-color: black;
+}
